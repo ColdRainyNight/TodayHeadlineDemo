@@ -1,4 +1,4 @@
-package bawei.com.todayheadline_demo.GuidePage;
+package com.todayheadline_demo.GuidePage;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,8 +7,8 @@ import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.view.WindowManager;
 
-import bawei.com.todayheadline_demo.R;
-import bawei.com.todayheadline_demo.activity.MainActivity;
+import com.todayheadline_demo.R;
+import com.todayheadline_demo.activity.MainActivity;
 
 /**
  * 类描述： 今日头条引导页 三秒跳转  去模拟器状态栏

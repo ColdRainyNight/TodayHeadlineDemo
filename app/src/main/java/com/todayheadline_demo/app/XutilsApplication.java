@@ -1,4 +1,4 @@
-package bawei.com.todayheadline_demo.app;
+package com.todayheadline_demo.app;
 
 import android.app.Application;
 

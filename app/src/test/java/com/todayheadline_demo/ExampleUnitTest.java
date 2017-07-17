@@ -1,4 +1,4 @@
-package bawei.com.todayheadline_demo;
+package com.todayheadline_demo;
 
 import org.junit.Test;
 

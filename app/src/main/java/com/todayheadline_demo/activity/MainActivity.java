@@ -1,4 +1,4 @@
-package bawei.com.todayheadline_demo.activity;
+package com.todayheadline_demo.activity;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -9,14 +9,15 @@ import android.view.WindowManager;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
+import com.todayheadline_demo.R;
+import com.todayheadline_demo.fragment.HomePage;
+import com.todayheadline_demo.fragment.NotLoggedIn;
+import com.todayheadline_demo.fragment.TheHeadlines;
+import com.todayheadline_demo.fragment.Videos;
+
 import java.util.ArrayList;
 import java.util.List;
 
-import bawei.com.todayheadline_demo.R;
-import bawei.com.todayheadline_demo.fragment.HomePage;
-import bawei.com.todayheadline_demo.fragment.NotLoggedIn;
-import bawei.com.todayheadline_demo.fragment.TheHeadlines;
-import bawei.com.todayheadline_demo.fragment.Videos;
 
 public class MainActivity extends AppCompatActivity {
 
